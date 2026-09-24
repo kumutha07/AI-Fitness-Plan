@@ -1,0 +1,46 @@
+PROJECT TITLE
+AI FITNESS PLAN
+
+1. INTRODUCTION
+
+The AI Fitness Plan project is designed to provide personalized fitness recommendations based on the user's fitness goals and basic requirements.
+
+2. FUNCTIONAL REQUIREMENTS
+
+• The system should collect basic user information.
+• The system should identify the user's fitness goal.
+• The system should provide suitable workout recommendations.
+• The system should generate a personalized fitness plan.
+• The user should be able to view the recommended plan easily.
+
+3. NON-FUNCTIONAL REQUIREMENTS
+
+• The system should be simple and user-friendly.
+• The recommendations should be easy to understand.
+• The system should provide results quickly.
+• The system should be reliable and easy to use.
+
+4. USER REQUIREMENTS
+
+The user provides basic information such as:
+• Fitness goal
+• Fitness level
+• Available workout time
+• Preferred type of activity
+
+5. SOFTWARE REQUIREMENTS
+
+• Python
+• Artificial Intelligence tools/concepts
+• Web browser
+• GitHub
+
+6. HARDWARE REQUIREMENTS
+
+• Computer or laptop
+• Keyboard and mouse
+• Internet connection
+
+7. EXPECTED RESULT
+
+The system should analyze the user's requirements and provide a suitable personalized fitness plan.
