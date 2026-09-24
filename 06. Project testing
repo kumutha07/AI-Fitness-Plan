@@ -1,0 +1,43 @@
+PROJECT TITLE
+AI FITNESS PLAN
+
+1. TESTING OVERVIEW
+
+Testing is performed to check whether the AI Fitness Plan system accepts user inputs correctly and generates suitable fitness recommendations.
+
+2. TESTING OBJECTIVES
+
+• To check user input handling.
+• To verify the fitness recommendation process.
+• To check different fitness goals.
+• To identify and correct errors.
+
+3. TEST CASES
+
+Test Case 1
+Input: General Fitness + Low intensity
+Expected Result: A general fitness plan should be generated.
+
+Test Case 2
+Input: Strength + Low intensity
+Expected Result: A strength-focused fitness plan should be generated.
+
+Test Case 3
+Input: Flexibility + Low intensity
+Expected Result: A flexibility-focused fitness plan should be generated.
+
+4. ACTUAL TESTING
+
+The program was executed using different user inputs. The generated plans were checked to verify that the selected fitness goal produced the appropriate recommendations.
+
+5. TESTING RESULT
+
+The program executed successfully and generated fitness plans based on the selected user inputs.
+
+6. OUTPUT EVIDENCE
+
+Screenshots of the program execution and generated fitness plans are included as project evidence.
+
+7. CONCLUSION
+
+Testing confirms that the basic AI Fitness Plan program accepts user information and generates a suitable fitness plan based on the selected goal.
