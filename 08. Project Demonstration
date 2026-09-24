@@ -1,0 +1,38 @@
+PROJECT TITLE
+AI FITNESS PLAN
+
+1. DEMONSTRATION OVERVIEW
+
+The project demonstration shows how the AI Fitness Plan system works from user input to the final fitness plan.
+
+2. DEMONSTRATION PROCESS
+
+• Run the Python program.
+• Enter the user name.
+• Select the fitness goal.
+• Select the fitness intensity level.
+• The system processes the given information.
+• A personalized 7-day fitness plan is displayed.
+
+3. DEMONSTRATION OUTPUT
+
+The system displays a suitable workout plan based on the selected fitness goal and intensity level. It also provides general fitness tips and rest suggestions.
+
+4. SCREEN RECORDING
+
+A screen recording of the project execution and output will be included as the project demonstration.
+
+5. PROJECT RESULT
+
+The demonstration shows that the AI Fitness Plan system successfully accepts user input and generates a suitable fitness plan.
+
+6. FUTURE IMPROVEMENTS
+
+• Add more fitness goals.
+• Add more workout options.
+• Improve personalization using advanced AI features.
+• Develop a user-friendly web or mobile interface.
+
+7. CONCLUSION
+
+The project demonstration presents the working process and output of the AI Fitness Plan system. It shows how programming and AI concepts can be used to provide personalized fitness recommendations.
