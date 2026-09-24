@@ -17,13 +17,13 @@ Many people follow general fitness routines without considering their personal g
 - AI-based recommendations
 - Workout plan suggestions
 - Goal-oriented fitness guidance
-- Simple and user-friendly approach
+- Simple and user-friendly approaches
 
-## Technologies Used
-- Artificial Intelligence
-- Python
-- Machine Learning
-- Data Analysis
+
+- ## Tools Used
+- Microsoft PowerPoint
+- Artificial Intelligence concepts
+- AI-based fitness planning
 
 ## How It Works
 1. User provides basic fitness information and goals.
