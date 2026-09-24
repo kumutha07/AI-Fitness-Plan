@@ -1,0 +1,63 @@
+PROJECT TITLE
+AI FITNESS PLAN
+
+1. SYSTEM DESIGN
+
+The AI Fitness Plan system is designed to collect user fitness information, analyze the requirements and provide a personalized fitness plan.
+
+2. INPUT
+
+The system takes the following information from the user:
+
+• Fitness goal
+• Fitness level
+• Available workout time
+• Preferred activity
+
+3. PROCESS
+
+1. Collect user information.
+2. Analyze the user's fitness requirements.
+3. Match the requirements with suitable fitness recommendations.
+4. Generate a personalized fitness plan.
+
+4. OUTPUT
+
+The system provides:
+
+• Recommended workout activities
+• Suitable workout duration
+• Goal-based fitness suggestions
+• Personalized fitness plan
+
+5. SYSTEM FLOW
+
+User Input
+     ↓
+Information Analysis
+     ↓
+Fitness Recommendation
+     ↓
+Personalized Plan
+     ↓
+User Output
+
+6. USER INTERFACE
+
+The interface should be simple and easy to use. Users can enter their basic fitness details and view the generated fitness recommendations.
+
+7. SYSTEM ARCHITECTURE
+
+User
+  ↓
+Input Collection
+  ↓
+AI-based Analysis
+  ↓
+Recommendation System
+  ↓
+Personalized Fitness Plan
+
+8. EXPECTED DESIGN OUTCOME
+
+The designed system provides a simple process for converting user fitness requirements into personalized fitness recommendations.
