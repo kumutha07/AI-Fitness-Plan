@@ -1,0 +1,50 @@
+PROJECT TITLE
+AI FITNESS PLAN
+
+1. DEVELOPMENT OVERVIEW
+
+The AI Fitness Plan system is developed to provide personalized fitness recommendations based on the user's fitness goals and requirements.
+
+2. DEVELOPMENT PROCESS
+
+• Collect the required user information.
+• Define the fitness goals and activity levels.
+• Create the recommendation logic.
+• Generate a suitable fitness plan based on the user input.
+• Display the personalized fitness recommendations.
+
+3. INPUT DATA
+
+The system uses basic user details such as:
+
+• Fitness goal
+• Fitness level
+• Available workout time
+• Preferred activity
+
+4. PROCESSING
+
+The entered information is analyzed and matched with suitable fitness recommendations. Based on the selected goal and fitness level, an appropriate workout plan is generated.
+
+5. OUTPUT
+
+The system generates a personalized fitness plan containing:
+
+• Recommended exercises
+• Workout duration
+• Workout frequency
+• Fitness suggestions
+
+6. DEVELOPMENT TOOLS
+
+• Python
+• Artificial Intelligence concepts
+• GitHub
+
+7. DEVELOPMENT RESULT
+
+The developed system provides a personalized fitness plan based on the information provided by the user.
+
+8. PROJECT SCREENSHOTS
+
+Screenshots of the coding, execution and output will be added here after the project is developed.
