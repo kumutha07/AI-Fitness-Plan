@@ -1,0 +1,46 @@
+PROJECT TITLE
+AI FITNESS PLAN
+
+1. INTRODUCTION
+
+AI Fitness Plan is a simple fitness recommendation system that provides personalized workout suggestions based on the user's fitness goal and fitness level.
+
+2. PROJECT OBJECTIVE
+
+The main objective of this project is to provide a suitable fitness plan based on user input and make fitness planning simple and easy to understand.
+
+3. SYSTEM INPUT
+
+The system accepts the following information:
+
+• User name
+• Fitness goal
+• Fitness level
+
+4. SYSTEM PROCESS
+
+The entered user information is analyzed by the program. Based on the selected fitness goal and intensity level, the system provides suitable workout recommendations.
+
+5. SYSTEM OUTPUT
+
+The system generates:
+
+• A 7-day workout plan
+• Recommended exercises
+• Workout duration
+• Rest and recovery suggestions
+• General fitness tips
+
+6. TECHNOLOGIES USED
+
+• Python
+• Artificial Intelligence concepts
+• GitHub
+
+7. PROJECT RESULT
+
+The project successfully generates a personalized fitness plan based on the user's selected fitness goal and fitness level.
+
+8. CONCLUSION
+
+The AI Fitness Plan project demonstrates how programming and AI concepts can be used to provide personalized fitness recommendations. The system is simple, user-friendly and can be further improved with advanced AI features in the future.
