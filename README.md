@@ -38,5 +38,6 @@ The project provides users with a personalized fitness plan and helps them follo
 Naan Mudhalvan / TN Skills Project
 
 ## Author
-Kumutha, Keerthi,kiran, Mohana priya, jayasri
+Lead: Kumutha
+Keerthi,kiran, Mohana priya, jayasri
 B.Sc. Artificial Intelligence
